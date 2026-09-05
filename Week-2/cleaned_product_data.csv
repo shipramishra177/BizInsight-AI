@@ -1,0 +1,81 @@
+Product_ID,Product_Name,Category,Cost_Price,Selling_Price,Initial_Stock
+P100,Wireless Mouse V1,Electronics,2246,3130,131
+P101,Wireless Mouse V2,Electronics,2270,2890,155
+P102,Wireless Mouse V3,Electronics,2684,3210,228
+P103,Keyboard V1,Electronics,2634,4190,165
+P104,Keyboard V2,Electronics,576,820,261
+P105,Keyboard V3,Electronics,3534,4190,104
+P106,Headphones V1,Electronics,3663,4570,271
+P107,Headphones V2,Electronics,2535,3120,62
+P108,Headphones V3,Electronics,3636,4890,298
+P109,USB Hub V1,Electronics,1209,1970,162
+P110,USB Hub V2,Electronics,657,980,254
+P111,USB Hub V3,Electronics,1273,1850,272
+P112,Webcam V1,Electronics,736,930,222
+P113,Webcam V2,Electronics,1889,2640,92
+P114,Webcam V3,Electronics,2607,3680,287
+P115,Bluetooth Speaker V1,Electronics,4749,6930,248
+P116,Bluetooth Speaker V2,Electronics,3714,4810,196
+P117,Bluetooth Speaker V3,Electronics,967,1400,180
+P118,Notebook V1,Office,2304,2820,225
+P119,Notebook V2,Office,2028,3040,214
+P120,Notebook V3,Office,3876,5080,50
+P121,Office Chair V1,Office,4606,6460,250
+P122,Office Chair V2,Office,2937,4160,80
+P123,Office Chair V3,Office,3454,4680,52
+P124,Desk Lamp V1,Office,2868,4350,176
+P125,Desk Lamp V2,Office,3317,4970,212
+P126,Desk Lamp V3,Office,241,370,188
+P127,Printer Paper V1,Office,4997,6100,274
+P128,Printer Paper V2,Office,2176,2840,92
+P129,Printer Paper V3,Office,4733,7700,202
+P130,File Folder V1,Office,2238,3130,267
+P131,File Folder V2,Office,3339,5150,143
+P132,File Folder V3,Office,2825,4410,201
+P133,Stapler V1,Office,4143,6390,46
+P134,Stapler V2,Office,3976,5250,174
+P135,Stapler V3,Office,4632,7170,256
+P136,Water Bottle V1,Home,1182,1430,196
+P137,Water Bottle V2,Home,1202,1800,43
+P138,Water Bottle V3,Home,1947,2890,67
+P139,Storage Box V1,Home,1652,2100,65
+P140,Storage Box V2,Home,1191,1780,88
+P141,Storage Box V3,Home,1823,2200,213
+P142,Table Clock V1,Home,1876,2610,93
+P143,Table Clock V2,Home,2046,2900,85
+P144,Table Clock V3,Home,2357,2960,132
+P145,Cushion V1,Home,592,920,50
+P146,Cushion V2,Home,2419,3320,226
+P147,Cushion V3,Home,1724,2180,193
+P148,LED Bulb V1,Home,982,1590,146
+P149,LED Bulb V2,Home,1029,1290,47
+P150,LED Bulb V3,Home,2119,2960,120
+P151,Cleaning Kit V1,Home,1977,2890,113
+P152,Cleaning Kit V2,Home,2318,3090,94
+P153,Cleaning Kit V3,Home,1726,2770,287
+P154,Laptop Bag V1,Accessories,2326,3580,280
+P155,Laptop Bag V2,Accessories,1779,2620,212
+P156,Laptop Bag V3,Accessories,1255,1980,296
+P157,Phone Case V1,Accessories,464,560,232
+P158,Phone Case V2,Accessories,1753,2660,188
+P159,Phone Case V3,Accessories,849,1360,193
+P160,Charging Cable V1,Accessories,2329,3270,281
+P161,Charging Cable V2,Accessories,1541,2440,234
+P162,Charging Cable V3,Accessories,2132,3240,63
+P163,Power Bank V1,Accessories,428,510,293
+P164,Power Bank V2,Accessories,849,1150,177
+P165,Power Bank V3,Accessories,1688,1990,77
+P166,Desk Mat V1,Accessories,2082,3330,64
+P167,Desk Mat V2,Accessories,2059,3170,188
+P168,Desk Mat V3,Accessories,2229,2910,293
+P169,Travel Pouch V1,Accessories,1733,2560,162
+P170,Travel Pouch V2,Accessories,1364,1850,127
+P171,Travel Pouch V3,Accessories,1156,1430,165
+P172,Coffee V1,Grocery,526,660,109
+P173,Coffee V2,Grocery,610,930,214
+P174,Coffee V3,Grocery,1012,1420,139
+P175,Tea V1,Grocery,900,1390,117
+P176,Tea V2,Grocery,750,920,255
+P177,Tea V3,Grocery,388,540,52
+P178,Biscuits V1,Grocery,1162,1460,190
+P179,Biscuits V2,Grocery,889,1150,153
